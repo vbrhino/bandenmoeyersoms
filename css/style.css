@@ -320,21 +320,6 @@ a:hover { color: var(--red-dark); }
 .filter-btn:hover { background: var(--red); color: var(--white); border-color: var(--red); }
 
 /* --- Welcome / Message Bar --- */
-.message-bar {
-  background: var(--red);
-  color: var(--white);
-  padding: 20px 0;
-  text-align: center;
-}
-.message-bar .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 16px;
-}
-.message-bar h2 { font-size: 1.3rem; font-weight: 700; }
-
 /* --- Google Map --- */
 .map-container { margin: 20px 0; }
 .map-container iframe { width: 100%; height: 350px; border: 0; border-radius: 8px; }
