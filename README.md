@@ -44,3 +44,4 @@ De huidige site gebruikt placeholder blokken. Vervang deze door echte afbeelding
 # Open index.html in je browser, of serveer met een simpele server:
 python3 -m http.server 8000
 ```
+
